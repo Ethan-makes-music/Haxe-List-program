@@ -2,7 +2,6 @@ class Main {
     static var List:Array<String> = [];
     static function main() {
         trace("would you like to add something to your list?");
-        trace("remember there is a 5 list limite!");
         MakeList();
     }
     static function MakeList() {
